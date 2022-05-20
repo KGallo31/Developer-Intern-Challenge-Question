@@ -1,7 +1,6 @@
 class InventoryitemsController < ApplicationController
 
     def create
-        # byebug
         inventoryitem = Inventoryitem.create!(inventoryitem_params)
         set_total_price(inventoryitem)
         render json: inventoryitem, stauts: :ok
