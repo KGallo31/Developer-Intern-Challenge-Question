@@ -1,24 +1,5 @@
-# README
+Hello Welcome to my verison of the 2022 Shopify
+Developer Intern Challenge Question. I used ruby and ruby on rails to develope this web application. Its easy to use! There is already seeded data to use or start the app using the "rails s" command and start making request.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If deciding to use the already seeded data run the command "rails c" to test any already exisiting data or add new data.
